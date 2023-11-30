@@ -1,0 +1,13 @@
+fun module(x:int, y:int)
+begin
+  return x - (x/y) * y
+end
+
+fun main()
+  a : int;
+  b : int;
+begin
+  a := 1 + 2 * 3 / 4;
+  b := module(11, 2);
+  write(a)
+end
