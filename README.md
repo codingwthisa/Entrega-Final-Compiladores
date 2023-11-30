@@ -78,6 +78,12 @@ GNU LALR(1) de generadores sintáticos).
 
 # Ejecución de los programas
 **Analizador Léxico**: python plex.py nombre_archivo.pl0
+
+
 **Analizador Sintáctico**: python pparser.py nombre_archivo.pl0 (Una vez ejecutado, se generará de forma automática un archivo .dot con el AST)
+
+
 **Analizador Semántico/Checker**: python checker.py nombre_archivo.pl0
+
+
 **Código intermedio**: python intcode.py demo.pl0 (El código intermedio solo ha sido probado con este archivo)
