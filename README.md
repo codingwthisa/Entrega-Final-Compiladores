@@ -1,5 +1,7 @@
 # Entrega-Final-Compiladores
 
+Este repositorio contiene todas las fases y requisitos que el profesor especificó para la realización del proyecto.
+
 # Analizador Léxico
 Instrucción: En esta parte del proyecto, deberán construir un módulo de 
 análisis léxico para el lenguaje **PL0**.  Para ello, deberán 
